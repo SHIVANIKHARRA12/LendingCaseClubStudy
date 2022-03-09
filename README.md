@@ -27,17 +27,39 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+Key Findings:
+Default rate increases as loan amount increases
+
+Default rate increases as funded amount investment increases
+
+Default rate increases as interest rate increases
+
+Higher dti (debt to interest rate) corresponds to higher interest rate
+
+higher funded amount corresponds to higher default risk rate
+
+higer installments corresponds to higher default rate
+
+low annual income corresponds to higher default rate
+
+For the year 2007 Florida had extremely high default rate
+
+For the year 2007 FL had extremely high default rate
+
+Florida has extremely high default rate for low annual income group
 
 There is 6% increase in default rate if we go from higher to lower income group
+
 There is 7% increase in default rate if we go from lower to higher funded amount investment
-Percentage difference default rate between verified and non verified status
+
 There is 6% increase in default rate if we go from low to high debt to interest rate
+
 There is 3% increase in default rate if we go from low to high installment
+
 There is 19% increase in default rate if we go from low to high interest rate
+
 There is 6% increase in default rate if we go from higher to lower annual income
 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
