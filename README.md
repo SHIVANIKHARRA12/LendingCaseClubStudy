@@ -71,17 +71,11 @@ There is 6% increase in default rate if we go from higher to lower annual income
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
  - https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012042/pdf
-   https://github.com/avineet123/Gramener-Case-Study/blob/main/Lending%2BClub%2BDefault%2BAnalysis.ipynb
+   
 
 
 ## Contact
 Created by [@SHIVANIKHARRA12] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
